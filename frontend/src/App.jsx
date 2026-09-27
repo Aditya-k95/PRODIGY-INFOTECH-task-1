@@ -78,10 +78,7 @@ function App() {
 
           <footer className="app-footer">
             <div>
-              <strong>PRODIGY InfoTech — Task 1: Secure User Authentication System</strong>
-            </div>
-            <div style={{ marginTop: '0.25rem', fontSize: '0.8rem', opacity: 0.8 }}>
-              Built with Node.js Express, SQLite, React, JWT &amp; Bcrypt Encryption
+              &copy; {new Date().getFullYear()} | All rights reserved
             </div>
           </footer>
         </div>
